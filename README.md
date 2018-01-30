@@ -1,3 +1,1 @@
-# Python
-# New line here.
-laksdjflkajslkdfjlkasjdklfjlasdjf
+# This is my project for learning git and python
