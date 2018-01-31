@@ -3,3 +3,9 @@ def fact(n):
         return n
     else:
         return n * fact(n-1)
+
+
+    """
+    >>> fact(3)
+    6
+    """

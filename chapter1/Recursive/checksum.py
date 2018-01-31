@@ -7,3 +7,6 @@ def sum_digits(n):
     else:
         all_but_last, last = split(n)
         return sum_digits(all_but_last) + last
+
+print("sum_digits(12345)")
+print(sum_digits(12345))
