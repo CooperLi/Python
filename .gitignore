@@ -105,3 +105,6 @@ ENV/
 
 # MacOS junk file
 .DS_Store
+
+# VSCode setting file
+.vscode
